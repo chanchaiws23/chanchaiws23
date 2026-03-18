@@ -17,6 +17,7 @@ const chanchai = {
     role: "Full-Stack Web Developer",
     location: "Bangkok, Thailand 🇹🇭",
     currentProject: "ERP Enterprise System",
+    skills: ["Angular 14+", "React", "Node.js", "TypeScript"],
     learning: ["Cloud Infrastructure", "DevOps", "System Design"],
     passions: ["Clean Code", "Scalable Architecture", "Team Collaboration"],
     funFact: "I believe great software is built with great teamwork"
@@ -53,9 +54,11 @@ const chanchai = {
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frontend
+![Angular](https://img.shields.io/badge/Angular_14+-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -117,6 +120,8 @@ const chanchai = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanchaiws23&repo=Capture-Translation&theme=tokyonight&hide_border=true" />
 </a>
 
+> **🚗 Car Care Online** — ระบบจัดการศูนย์ดูแลรถยนต์ออนไลน์ สร้างด้วย **Angular 14+** (Private/Work Project)
+
 </div>
 
 ---
@@ -145,7 +150,7 @@ const chanchai = {
 ## 🎯 Current Focus
 
 ```text
-⚛️  Frontend Frameworks    ██████████████████░░  90%   React, Next.js, Vue
+⚛️  Frontend Frameworks    ██████████████████░░  90%   Angular, React, Next.js, Vue
 🖥️  Backend Development    ████████████████░░░░  80%   Node.js, Express, REST APIs
 �️  Database & SQL         ████████████████░░░░  80%   PostgreSQL, MongoDB, Redis
 🐳  Docker & DevOps        ████████████░░░░░░░░  60%   CI/CD, Containerization
